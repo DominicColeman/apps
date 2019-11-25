@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Betsson Do",
-    "imagePath": "https://raw.githubusercontent.com/DominicColeman/apps/master/do-it-task-manager.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/DominicColeman/apps/master/Betsson.jpg",
+    "linkPath": "http://record.betsson.com/_Y5JSRrhK3miRoJpNP_BTDWNd7ZgqdRLk/1/?payload=a_2196",
+    "linkAction": "#web",
     "afid": "2rvHrw5Qx5PsGxwvhmQKhF"
   }
 }
